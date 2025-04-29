@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +50,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Dealer.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Dealer.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Dealer.cs",
+              "RelativeToolTip": "TwentyOne\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:05:45.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Player.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeToolTip": "TwentyOne\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:04:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
               "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T21:48:03.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Game.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
               "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Game.cs",
               "RelativeToolTip": "TwentyOne\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T21:42:53.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
@@ -76,12 +110,11 @@
               "RelativeToolTip": "TwentyOne\\Deck.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:08:00.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T20:08:00.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
@@ -89,8 +122,7 @@
               "RelativeToolTip": "TwentyOne\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:47:05.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T18:47:05.863Z"
             },
             {
               "$type": "Document",
@@ -100,7 +132,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:43:32.465Z",
               "EditorCaption": ""
